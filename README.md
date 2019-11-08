@@ -4,7 +4,7 @@
 
 :point_right: [IssueWhatShow.com](http://issuewhatshow.com)
 
-:point_right:[발표자료 바로보기](doc\최종 제출 자료\[라떼는말이야]잇슈왓슈_PPT.pptx)
+:point_right:[발표 자료](https://github.com/codeorchord/MULTICAMPUS-2nd-project/tree/master/doc/%EC%B5%9C%EC%A2%85%20%EC%A0%9C%EC%B6%9C%20%EC%9E%90%EB%A3%8C)
 
 목차...TBD
 
