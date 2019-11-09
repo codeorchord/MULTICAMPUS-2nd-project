@@ -1,0 +1,7 @@
+# linguist setting
+src/web/src/main/webapp/resources/bootstrap/*   linguist-vendored
+src/web/src/main/webapp/resources/third-party-etc/* linguist-vendored
+*.css   text
+*.ppt   binary
+*.md    binary
+
