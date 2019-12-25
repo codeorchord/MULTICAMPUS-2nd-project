@@ -42,9 +42,9 @@
 
 `analyza`: 자체 개발 NLP 분석기 최상위 `python` 모듈
 
-- `morpheus`: khaiii 형태소 분석기를 이용한 형태소 분석 driver  모듈
+- `morpheus`: Khaiii 형태소 분석기를 이용한 형태소 분석 driver  모듈
 - `word2veca`: gensim package의 word2vec driver 모듈
-- `tfidf`: tfdif 계산 모듈
+- `tf-idf`: TF-IDF 계산 모듈
 
 ### 기존 이슈 파악 방법과의 차별성
 
